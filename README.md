@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<br><br>    🔭 I'm currently working on app with : TypeScript and Node.js.
-<br><br>    👯 I'm looking to collaborate on a projet.<br>
+🔭 I'm currently working on app with : TypeScript and Node.js.
+<br><br>    
+👯 I'm looking to collaborate on a projet.<br>
 
 
 ## 🌐 Socials:
